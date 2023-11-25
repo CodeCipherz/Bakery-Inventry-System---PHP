@@ -79,7 +79,7 @@
 
     <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post" enctype="multipart/form-data">
 
-        <label for="product_name">Product Name:</label>
+        <label for="product_name">Savinda:</label>
         <input type="text" name="product_name" required>
 
         <label for="unit_price">Unit Price:</label>
