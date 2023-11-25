@@ -85,7 +85,7 @@
         <label for="unit_price">Unit Price:</label>
         <input type="number" name="unit_price" step="0.01" required>
 
-        <label for="unit_measure">Unit of Measure:</label>
+        <label for="unit_measure">Unit of Measure:edit</label>
         <input type="text" name="unit_measure" required>
 
         <label for="product_image">Product Image:</label>
