@@ -82,7 +82,7 @@
         <label for="product_name">Savinda:</label>
         <input type="text" name="product_name" required>
 
-        <label for="unit_price">Unit Price:</label>
+        <label for="unit_price">Kasun:</label>
         <input type="number" name="unit_price" step="0.01" required>
 
         <label for="unit_measure">Unit of Measure:</label>
