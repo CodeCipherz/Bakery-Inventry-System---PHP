@@ -67,7 +67,7 @@
                 echo "Sorry, there was an error uploading your file.";
             }
         }
-
+        echo "Kasun Changed";
         $sql = "INSERT INTO products (product_name, unit_price, unit_measure, product_image) VALUES ('$productName', '$unitPrice', '$unitMeasure', '$targetFile')";
         // Add more fields as needed
 
