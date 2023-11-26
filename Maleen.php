@@ -1,7 +1,8 @@
 <?php 
 
-$num = "Hey Yo";
+$num = "hii";
 
 echo "rodrigo";
+echo $num;
 
 ?>
