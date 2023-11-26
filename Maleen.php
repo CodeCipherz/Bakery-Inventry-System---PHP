@@ -1,6 +1,6 @@
 <?php 
 
-$num = 5;
+$num = 10;
 
 echo num;
 
