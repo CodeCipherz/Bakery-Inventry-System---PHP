@@ -2,6 +2,6 @@
 
 $num = "Hey";
 
-echo num;
+echo "maleen";
 
 ?>
