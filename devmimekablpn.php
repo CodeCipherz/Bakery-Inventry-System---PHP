@@ -1,5 +1,7 @@
 <?php
 
-echo "uba plyn ynna";
+echo "devmi";
 
 ?>
+
+
