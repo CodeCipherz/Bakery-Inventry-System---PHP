@@ -1,6 +1,6 @@
 <?php 
 
-$num = "Hey Yo";
+$num = "Hey";
 
 echo "rodrigo";
 
