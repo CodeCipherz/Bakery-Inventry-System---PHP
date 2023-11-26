@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 <?php
     echo "ado";
 ?>
-=======
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -107,4 +106,3 @@
 </a>
 </body>
 </html>
->>>>>>> 00d8340bc1ecb3109635281ba45e957694519b73

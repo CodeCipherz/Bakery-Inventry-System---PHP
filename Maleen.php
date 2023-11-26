@@ -1,7 +1,7 @@
 <?php 
 
-$num = 5;
+$num = "Hey Yo";
 
-echo num;
+echo "Rodrigo";
 
 ?>

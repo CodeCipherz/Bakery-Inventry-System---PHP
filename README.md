@@ -1,6 +1,6 @@
 # Bakery-Inventry-System-PHP
 
-Chamikara Bandara - clone
+Chamikara Bandara - clone by chami
 savinda rajapaksha -cloned -new
 Chami De Silva
 Kaizma - cloned
