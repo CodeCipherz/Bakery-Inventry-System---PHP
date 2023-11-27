@@ -5,6 +5,6 @@
     echo $txt;
 
     echo $txt1;
-    echo "DEVMI" ;
+    echo "savinda" ;
 
 ?>
